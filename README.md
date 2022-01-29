@@ -1,9 +1,10 @@
 ## My name is Sorawit Nuankamma
 
-I'm a Junoir Fullstack Developer. and currently working on my senior project
+I'm a Junoir Fullstack Developer. and this is my current project
 
-1. Smart Classroom : an React project for interactive classroom service with Line API intergration
-2. Back Classroom : an NodeJs project act as backend service for Smart Classroom
+1. Smart Classroom : an React project for interactive classroom service with Line API intergration ( currently working on )
+2. Back Classroom : an NodeJs project act as backend service for Smart Classroom ( currently working on )
+3. tick-tac-toe (XO-game)
 
 figma design for my project here 
 [Figma Design](https://www.figma.com/file/CsEblDBmXM4oOOT14dcPrR/Simple-Classroom?node-id=0%3A1)
